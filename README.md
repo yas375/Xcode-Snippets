@@ -4,6 +4,6 @@ Just a few code snippets I have in my Xcode arsenal. In [dotfiles](http://dotfil
 
 ## Using Snippets
 
-In Xcode 4, open a workspace and toggle the right sidebar to be visible. On the bottom, there is a panel with four icons in the header. Click on the `{ }` icon to open the Code Snippets Library.
+Just copy the snippets to `~/Library/Developer/Xcode/UserData/CodeSnippets/`.
 
-Now copy-paste the code from one of these snippets, highlight the code block you just pasted and drag it to the Code Snippet panel. Make sure to match the suggested platform, language, and completion scope. The completion shortcut corresponds to the filename of the code snippet.
+Alternatively, use the [**Install System Plugin** tool](https://github.com/n-b/InstallSystemPlugins) and double-click the codesnippet files.
